@@ -1,6 +1,6 @@
 <img width=100% src="http://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=Hello,my+name+is+pedro;i'm+20+years+old;i+from+brazil,+SP;i+study+Software+Engineering;be+welcome+me!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=Hello,my+name+is+Pedro;i'm+20+years+old;i+from+brazil,+SP;i+study+Software+Engineering;be+welcome+me!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kurousagin&show_icons=true&count_private=true&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Luis github stats"/>
